@@ -1,0 +1,21 @@
+body{
+  margin: 0;
+  padding: 0 0 0 0;
+}
+
+.navbar{
+  margin-bottom: 30px;
+}
+
+@font-face {
+  font-family: 'Poppins';
+  src: local('Poppins'), url(./fonts/Poppins-Medium.ttf) format('truetype');
+}
+
+.poppins{
+  font-family: Poppins;
+}
+
+.clickable{
+  cursor: pointer;
+}
